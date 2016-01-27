@@ -1,0 +1,3 @@
+bin/
+*.xproj.user
+*project.lock.json
